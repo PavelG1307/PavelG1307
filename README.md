@@ -38,6 +38,12 @@
     <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
     <img src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
   </div>
+  
+  ### Frontend Development
+  <div>
+    <img src="https://img.shields.io/badge/html5%20-%23009639.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/css3%20-%23009639.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  </div>
 
   ### Version Control
 
