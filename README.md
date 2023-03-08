@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Pavel
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<div align="center">I am a student, working as a backend developer. My stack:
+<div align="center">I am a student, working as a backend developer. Things I use on a daily basis:
 
   ### Languages
 
