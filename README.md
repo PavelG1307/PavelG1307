@@ -30,6 +30,8 @@
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/redis-%2300f.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
     <img src="https://img.shields.io/badge/clickhouse-%2300f.svg?&style=for-the-badge&logo=clickhouse&logoColor=white"/>
+    <img src="https://img.shields.io/badge/clickhouse-%2300f.svg?&style=for-the-badge&logo=clickhouse&logoColor=white"/>
+    <img src="https://img.shields.io/badge/clickhouse-%2300f.svg?&style=for-the-badge&logo=clickhouse&logoColor=white"/>
   </div>
 
   ### Servers
@@ -53,6 +55,11 @@
     <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   </div>
 
+  ### Logging
+  <div>
+  <img src="https://img.shields.io/badge/rollbar-%2300f.svg?&style=for-the-badge&logo=rollbar&logoColor=white"/>
+  </div>
+  
   ### Design
 
   <div>
