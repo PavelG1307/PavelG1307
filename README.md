@@ -30,8 +30,7 @@
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/redis-%2300f.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
     <img src="https://img.shields.io/badge/clickhouse-%2300f.svg?&style=for-the-badge&logo=clickhouse&logoColor=white"/>
-    <img src="https://img.shields.io/badge/clickhouse-%2300f.svg?&style=for-the-badge&logo=clickhouse&logoColor=white"/>
-    <img src="https://img.shields.io/badge/clickhouse-%2300f.svg?&style=for-the-badge&logo=clickhouse&logoColor=white"/>
+    <img src="https://img.shields.io/badge/sqlite-%2300f.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
   </div>
 
   ### Servers
