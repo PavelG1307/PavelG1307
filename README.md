@@ -42,6 +42,7 @@
   
   ### Frontend Development
   <div>
+    <img src="https://img.shields.io/badge/react%20-%230db7ed.svg?&style=for-the-badge&logo=react&logoColor=white"/>
     <img src="https://img.shields.io/badge/html5%20-%23009639.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/css3%20-%23009639.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   </div>
