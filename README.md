@@ -39,8 +39,16 @@
     <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
     <img src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
   </div>
+
+  ### Monitoring
+
+  <div>
+    <img src="https://img.shields.io/badge/prometheus%20-%23f74202.svg?&style=for-the-badge&logo=prometheus&logoColor=white"/>
+    <img src="https://img.shields.io/badge/grafana-%23f74202.svg?&style=for-the-badge&logo=grafana&logoColor=white"/>
+  </div>
   
   ### Frontend Development
+  
   <div>
     <img src="https://img.shields.io/badge/react%20-%230db7ed.svg?&style=for-the-badge&logo=react&logoColor=white"/>
     <img src="https://img.shields.io/badge/html5%20-%23009639.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -56,6 +64,7 @@
   </div>
 
   ### Logging
+  
   <div>
   <img src="https://img.shields.io/badge/rollbar-%2300f.svg?&style=for-the-badge&logo=rollbar&logoColor=white"/>
   </div>
